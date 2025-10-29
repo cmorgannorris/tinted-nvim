@@ -404,6 +404,7 @@ base16-mountain
 base16-nebula
 base16-nord-light
 base16-nord
+base16-nosferatu
 base16-nova
 base16-ocean
 base16-oceanicnext
@@ -628,6 +629,7 @@ base24-night-lion-v1
 base24-night-lion-v2
 base24-night-owlish-light
 base24-nocturnal-winter
+base24-nosferatu
 base24-obsidian
 base24-ocean
 base24-oceanic-material

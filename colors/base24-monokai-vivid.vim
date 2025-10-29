@@ -1,5 +1,5 @@
 hi clear
-let g:colors_name = 'base16-monokai-vivid'
+let g:colors_name = 'base24-monokai-vivid'
 lua require('tinted-colorscheme').setup({
     \ base00 = '#121212', base01 = '#121212', base02 = '#828282', base03 = '#a1a1a1',
     \ base04 = '#c0c0c0', base05 = '#dfdfdf', base06 = '#fffefe', base07 = '#ffffff',

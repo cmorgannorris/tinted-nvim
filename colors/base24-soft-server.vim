@@ -1,5 +1,5 @@
 hi clear
-let g:colors_name = 'base16-soft-server'
+let g:colors_name = 'base24-soft-server'
 lua require('tinted-colorscheme').setup({
     \ base00 = '#242626', base01 = '#000000', base02 = '#666c6b', base03 = '#727978',
     \ base04 = '#7f8786', base05 = '#8c9594', base06 = '#99a3a2', base07 = '#d1dfde',

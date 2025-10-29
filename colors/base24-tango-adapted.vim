@@ -1,5 +1,5 @@
 hi clear
-let g:colors_name = 'base16-tango-adapted'
+let g:colors_name = 'base24-tango-adapted'
 lua require('tinted-colorscheme').setup({
     \ base00 = '#fffefe', base01 = '#000000', base02 = '#8e928a', base03 = '#a4a89f',
     \ base04 = '#babeb5', base05 = '#d0d4cb', base06 = '#e6eae1', base07 = '#f6f6f4',
