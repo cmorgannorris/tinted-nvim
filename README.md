@@ -227,6 +227,7 @@ base16-0x96f
 base16-3024
 base16-apathy
 base16-apprentice
+base16-ascendancy
 base16-ashes
 base16-atelier-cave-light
 base16-atelier-cave
@@ -293,6 +294,7 @@ base16-codeschool
 base16-colors
 base16-cupcake
 base16-cupertino
+base16-cyberpunk
 base16-da-one-black
 base16-da-one-gray
 base16-da-one-ocean
@@ -315,6 +317,7 @@ base16-dracula
 base16-edge-dark
 base16-edge-light
 base16-eighties
+base16-eldritch
 base16-embers-light
 base16-embers
 base16-emil
@@ -332,6 +335,8 @@ base16-everforest-dark-medium
 base16-everforest-dark-soft
 base16-everforest
 base16-flat
+base16-flexoki-dark
+base16-flexoki-light
 base16-framer
 base16-fruit-soda
 base16-gigavolt
@@ -460,6 +465,7 @@ base16-shapeshifter
 base16-silk-dark
 base16-silk-light
 base16-snazzy
+base16-soft-server
 base16-solarflare-light
 base16-solarflare
 base16-solarized-dark
@@ -517,6 +523,9 @@ base16-windows-nt-light
 base16-windows-nt
 base16-woodland
 base16-xcode-dusk
+base16-yesterday-bright
+base16-yesterday-night
+base16-yesterday
 base16-zenbones
 base16-zenburn
 base24-0x96f
@@ -569,6 +578,7 @@ base24-desert
 base24-dimmed-monokai
 base24-dracula
 base24-earthsong
+base24-eldritch
 base24-elemental
 base24-elementary
 base24-embarcadero
@@ -580,6 +590,8 @@ base24-firefox-dev
 base24-fish-tank
 base24-flat
 base24-flatland
+base24-flexoki-dark
+base24-flexoki-light
 base24-floraverse
 base24-forest-blue
 base24-framer
@@ -608,6 +620,7 @@ base24-jackie-brown
 base24-japanesque
 base24-jellybeans
 base24-jet-brains-darcula
+base24-kanagawa-dragon
 base24-kibble
 base24-lab-fox
 base24-laser
@@ -640,6 +653,8 @@ base24-one-half-light
 base24-one-light
 base24-operator-mono-dark
 base24-pandora
+base24-papercolor-dark
+base24-papercolor-light
 base24-paul-millr
 base24-pencil-dark
 base24-pencil-light
@@ -663,7 +678,6 @@ base24-shaman
 base24-slate
 base24-sleepy-hollow
 base24-smyck
-base24-soft-server
 base24-solarized-dark-higher-contrast
 base24-solarized-dark-patched
 base24-space-gray-eighties-dull
@@ -678,6 +692,10 @@ base24-tango-half-adapted
 base24-terminal-basic
 base24-thayer-bright
 base24-the-hulk
+base24-tokyo-night-dark
+base24-tokyo-night-light
+base24-tokyo-night-moon
+base24-tokyo-night-storm
 base24-tomorrow-night
 base24-toy-chest
 base24-treehouse
