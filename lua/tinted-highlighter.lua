@@ -767,8 +767,15 @@ M.set_highlights = function(colors, colorscheme_name, clear_highlights, highligh
     { guifg = M.colors.base0E, guibg = nil, gui = "none", guisp = nil, ctermfg = M.colors.cterm0E, ctermbg = nil }
   hi.TSKeyword =
     { guifg = M.colors.base0E, guibg = nil, gui = "none", guisp = nil, ctermfg = M.colors.cterm0E, ctermbg = nil }
-  hi.TSKeywordFunction =
-    { guifg = M.colors.base0E, guibg = nil, gui = "none", guisp = nil, ctermfg = M.colors.cterm0E, ctermbg = nil }
+  hi.TSKeywordFunction = {
+    guifg = M.colors.base0E,
+    guibg = nil,
+    gui = "italic",
+    guisp = nil,
+    ctermfg = M.colors.cterm0E,
+    ctermbg = nil,
+    cterm = "italic",
+  }
   hi.TSKeywordOperator =
     { guifg = M.colors.base0E, guibg = nil, gui = "none", guisp = nil, ctermfg = M.colors.cterm0E, ctermbg = nil }
   hi.TSLabel =
@@ -806,7 +813,7 @@ M.set_highlights = function(colors, colorscheme_name, clear_highlights, highligh
   hi.TSSymbol =
     { guifg = M.colors.base09, guibg = nil, gui = "none", guisp = nil, ctermfg = M.colors.cterm09, ctermbg = nil }
   hi.TSTag =
-    { guifg = M.colors.base0C, guibg = nil, gui = "none", guisp = nil, ctermfg = M.colors.cterm0C, ctermbg = nil }
+    { guifg = M.colors.base0E, guibg = nil, gui = "none", guisp = nil, ctermfg = M.colors.cterm0E, ctermbg = nil }
   hi.TSTagDelimiter =
     { guifg = M.colors.base05, guibg = nil, gui = "none", guisp = nil, ctermfg = M.colors.cterm05, ctermbg = nil }
   hi.TSText =
