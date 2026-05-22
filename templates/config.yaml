@@ -1,10 +1,10 @@
 README.md:
-  filename: "README.md"
-  supported-systems: [list]
+  filename: 'README.md'
+  supported-systems: [base16, base24]
 
 colorscheme.txt:
   filename: doc/colorscheme.txt
-  supported-systems: [list]
+  supported-systems: [base16, base24]
 
 base16.lua:
   filename: lua/colors/{{ scheme-system }}-{{ scheme-slug }}.lua
